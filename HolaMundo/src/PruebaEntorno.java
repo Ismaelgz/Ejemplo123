@@ -6,6 +6,10 @@ public class PruebaEntorno {
 
 		System.out.println("Buenos días");
 holaaaaa
+	
+	
+	
+	System.out.println("Buenas tardes");
 	}
 }
 	
